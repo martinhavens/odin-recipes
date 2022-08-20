@@ -1,0 +1,40 @@
+/* html {
+    width: 100%;
+}
+
+* {
+    outline: solid 1px red;
+}
+
+p {
+    color: red;
+  }
+
+div {
+    color: white;
+    background-color: black;
+  }
+
+  div, p {
+    background-color: rgb(0, 162, 255);
+    font-family: "Times New Roman", sans-serif;
+  }
+
+.subsection.header {
+    color:rgb(255, 82, 13);
+    background-color: rgb(217, 255, 0);
+    
+}
+.subsection.header {
+    color:rgb(255, 13, 223);
+    background-color: rgb(0, 247, 255);
+    
+}
+
+
+
+.subsection#formal{
+    color:rgb(223, 226, 17);
+    line-height: 15px;
+    background-color: brown;
+} */
